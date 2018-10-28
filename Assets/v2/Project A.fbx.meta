@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 99c4dbeebdc67474d9cc1ed26be590db
+timeCreated: 1517328937
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ball_l
+    100002: ball_r
+    100004: bob02.objMesh
+    100006: calf_l
+    100008: calf_r
+    100010: clavicle_l
+    100012: clavicle_r
+    100014: eyelashes01.objMesh
+    100016: female_casualsuit02.objMesh
+    100018: female_generic.objMesh
+    100020: foot_l
+    100022: foot_r
+    100024: Game_engine
+    100026: hand_l
+    100028: hand_r
+    100030: head
+    100032: high-poly.objMesh
+    100034: index_01_l
+    100036: index_01_r
+    100038: index_02_l
+    100040: index_02_r
+    100042: index_03_l
+    100044: index_03_r
+    100046: lowerarm_l
+    100048: lowerarm_r
+    100050: middle_01_l
+    100052: middle_01_r
+    100054: middle_02_l
+    100056: middle_02_r
+    100058: middle_03_l
+    100060: middle_03_r
+    100062: neck_01
+    100064: pelvis
+    100066: pinky_01_l
+    100068: pinky_01_r
+    100070: pinky_02_l
+    100072: pinky_02_r
+    100074: pinky_03_l
+    100076: pinky_03_r
+    100078: //RootNode
+    100080: ring_01_l
+    100082: ring_01_r
+    100084: ring_02_l
+    100086: ring_02_r
+    100088: ring_03_l
+    100090: ring_03_r
+    100092: Root
+    100094: spine_01
+    100096: spine_02
+    100098: spine_03
+    100100: teeth_base.objMesh
+    100102: thigh_l
+    100104: thigh_r
+    100106: thumb_01_l
+    100108: thumb_01_r
+    100110: thumb_02_l
+    100112: thumb_02_r
+    100114: thumb_03_l
+    100116: thumb_03_r
+    100118: tongue01.objMesh
+    100120: upperarm_l
+    100122: upperarm_r
+    400000: ball_l
+    400002: ball_r
+    400004: bob02.objMesh
+    400006: calf_l
+    400008: calf_r
+    400010: clavicle_l
+    400012: clavicle_r
+    400014: eyelashes01.objMesh
+    400016: female_casualsuit02.objMesh
+    400018: female_generic.objMesh
+    400020: foot_l
+    400022: foot_r
+    400024: Game_engine
+    400026: hand_l
+    400028: hand_r
+    400030: head
+    400032: high-poly.objMesh
+    400034: index_01_l
+    400036: index_01_r
+    400038: index_02_l
+    400040: index_02_r
+    400042: index_03_l
+    400044: index_03_r
+    400046: lowerarm_l
+    400048: lowerarm_r
+    400050: middle_01_l
+    400052: middle_01_r
+    400054: middle_02_l
+    400056: middle_02_r
+    400058: middle_03_l
+    400060: middle_03_r
+    400062: neck_01
+    400064: pelvis
+    400066: pinky_01_l
+    400068: pinky_01_r
+    400070: pinky_02_l
+    400072: pinky_02_r
+    400074: pinky_03_l
+    400076: pinky_03_r
+    400078: //RootNode
+    400080: ring_01_l
+    400082: ring_01_r
+    400084: ring_02_l
+    400086: ring_02_r
+    400088: ring_03_l
+    400090: ring_03_r
+    400092: Root
+    400094: spine_01
+    400096: spine_02
+    400098: spine_03
+    400100: teeth_base.objMesh
+    400102: thigh_l
+    400104: thigh_r
+    400106: thumb_01_l
+    400108: thumb_01_r
+    400110: thumb_02_l
+    400112: thumb_02_r
+    400114: thumb_03_l
+    400116: thumb_03_r
+    400118: tongue01.objMesh
+    400120: upperarm_l
+    400122: upperarm_r
+    2100000: female_generic.obj
+    2100002: bob02.obj
+    2100004: high-poly.obj
+    2100006: eyelashes01.obj
+    2100008: teeth_base.obj
+    2100010: tongue01.obj
+    2100012: female_casualsuit02.obj
+    4300000: female_generic.objMesh
+    4300002: bob02.objMesh
+    4300004: high-poly.objMesh
+    4300006: eyelashes01.objMesh
+    4300008: teeth_base.objMesh
+    4300010: tongue01.objMesh
+    4300012: female_casualsuit02.objMesh
+    9500000: //RootNode
+    13700000: bob02.objMesh
+    13700002: eyelashes01.objMesh
+    13700004: female_casualsuit02.objMesh
+    13700006: female_generic.objMesh
+    13700008: high-poly.objMesh
+    13700010: teeth_base.objMesh
+    13700012: tongue01.objMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

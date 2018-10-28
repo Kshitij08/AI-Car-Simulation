@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: fb2c57bc387857c41af8be2e1a23c59b
+timeCreated: 1464802961
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2015ax
+    100002: //RootNode
+    100004: 2015axglass
+    100006: 2015axwheels
+    100008: doorL
+    100010: doorLwin
+    100012: doorR
+    100014: doorRwin
+    100016: root
+    100018: steeringwheel
+    100020: wheelFL
+    100022: wheelFR
+    100024: wheelRL
+    100026: wheelRR
+    400000: 2015ax
+    400002: //RootNode
+    400004: 2015axglass
+    400006: 2015axwheels
+    400008: doorL
+    400010: doorLwin
+    400012: doorR
+    400014: doorRwin
+    400016: root
+    400018: steeringwheel
+    400020: wheelFL
+    400022: wheelFR
+    400024: wheelRL
+    400026: wheelRR
+    4300000: 2015ax
+    4300002: 2015axglass
+    4300004: 2015axwheels
+    7400000: Animation
+    9500000: //RootNode
+    13700000: 2015ax
+    13700002: 2015axglass
+    13700004: 2015axwheels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

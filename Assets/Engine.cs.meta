@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ad8b496634b03bd40b234b9e1c7ffd13
+timeCreated: 1512403862
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - path: {instanceID: 0}
+  - wheelFL: {instanceID: 0}
+  - wheelFR: {instanceID: 0}
+  - textureNormal: {instanceID: 0}
+  - textureBreaking: {instanceID: 0}
+  - carRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
