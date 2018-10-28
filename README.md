@@ -2,6 +2,8 @@
 * An Autonomous car made using Unity
 * The Car uses "Raytracing" to calculates its route and Avoid obstacles
 
+Note: Open "AI-Car-Simulation\Assets\Scenes\Scene1.unity" to tinker with it
+
 ---
 ## Screenshots of the Game
 ![car ai 1](https://user-images.githubusercontent.com/36204389/47618981-42617900-daff-11e8-990b-2223fa135278.PNG)
